@@ -16,7 +16,6 @@ We searched [NCBI](https://www.ncbi.nlm.nih.gov/sra) with the following query:
 This contains 16 datasets. We downloaded RunInfo table from NCBI and removed columns to produce this:
 
 ...
-Run	download_path	LibraryName
 SRR7119574	https://sra-download.ncbi.nlm.nih.gov/traces/sra62/SRR/006952/SRR7119574	lacZ_ind_RPF_r2
 SRR7119575	https://sra-download.ncbi.nlm.nih.gov/traces/sra62/SRR/006952/SRR7119575	lacZ_ind_mRNA_r2
 SRR7119576	https://sra-download.ncbi.nlm.nih.gov/traces/sra62/SRR/006952/SRR7119576	lacZ_unind_RPF_r2
